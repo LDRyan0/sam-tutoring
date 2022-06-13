@@ -20,4 +20,4 @@ The following repository is meant as a demo to understand the basics of working 
   - ```diff``` shows you what lines have been added, removed and updated in a concise view
   
   
-When you're working on a project with hundres of people and a massive code base (hundreds of thousands of lines) imagine how difficult getting things done would be without version control!
+When you're working on a project with *hundreds of people* and a massive code base (*hundreds of thousands of lines*) imagine how difficult getting things done would be without version control!
